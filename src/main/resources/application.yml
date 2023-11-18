@@ -1,0 +1,13 @@
+spring:
+  banner:
+    location: classpath:banner/banner.txt
+  output:
+    ansi:
+      enabled: always
+
+family:
+  name: ahmed rizk
+  age: 50
+
+server:
+  port: 8080
